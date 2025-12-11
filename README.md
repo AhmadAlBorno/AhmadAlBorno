@@ -4,8 +4,7 @@
 
 I’m a full-stack developer with a passion for programming. I truly enjoy what I do! 😍
 
-
-<br>
+#### Projects
 
 **Travel & Tours Booking Platform**  
 A full-stack web application that allows users to browse tours, book packages, manage their carts, and make payments.  
